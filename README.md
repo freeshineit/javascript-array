@@ -1,6 +1,6 @@
 数组是值的有序集合。
 
-![数组原型](https://upload-images.jianshu.io/upload_images/3108019-547e813688520b54.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![数组原型](https://github.com//freeshineit/javascript-array/blob/master/images/3108019-547e813688520b54.png?raw=true)
 
 ### [Array.prototype.concat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat?v=example)  [ES3]
 
