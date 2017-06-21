@@ -1,0 +1,11 @@
+{
+  "name": "javascript-array",
+  "version": "1.0.0",
+  "description": "javascript array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shine",
+  "license": "ISC"
+}
