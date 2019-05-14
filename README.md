@@ -730,7 +730,8 @@ things.sort(); // ['1 Word', '2 Words', 'Word', 'word']
 
 var num = [1, 10, 21, 2, 29, 3, 8];
 num.sort((a,b) => {
-    return a > b;
+    // 根据返回的值（-1,0,1）进行排序
+    return a - b;
 })
 // 按照升序进行排序
 console.log(num) // [1, 2, 3, 8, 10, 21, 29]
